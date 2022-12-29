@@ -3,7 +3,7 @@
 - 🔭 Apaixonado por tecnologia
 - 🎓 Graduado em Análise e Desenvolvimento de Sistemas
 - 🎓 Discente em Pós-graduação de Desenvolvimento Orientado a Objetos com Java
-- 🏆 Desenvolvedor Full Stack
+- 🏆 Desenvolvedor Especializado em Java
 <div align="center">
   <a href="https://github.com/geancarloslc">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=geancarloslc&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
